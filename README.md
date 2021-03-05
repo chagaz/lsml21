@@ -12,6 +12,8 @@ Notebooks for the [2021 course on Large Scale Machine Learning at Mines ParisTec
 Beginners should work on TP1 (LeNet on MNIST), and then at least begin TP3 (Deep Generative Models)
 Students who have already practised with Deep ConvNets should work essentially on TP3. TP2 may be useful only for those who have never practised Transfer Learning.
 
+## Day 3: Deep reinforcement learing
+TBA
 
 ## Day 4: Stochastic gradient descent
 TBA
