@@ -13,7 +13,7 @@ Beginners should work on TP1 (LeNet on MNIST), and then at least begin TP3 (Deep
 Students who have already practised with Deep ConvNets should work essentially on TP3. TP2 may be useful only for those who have never practised Transfer Learning.
 
 ## Day 3: Deep reinforcement learing
-TBA
+Instructions in [this pdf](https://github.com/telejesus2/tprl-lsml-2021/blob/main/tprl_lsml_2021.pdf).
 
 ## Day 4: Stochastic gradient descent
 TBA
