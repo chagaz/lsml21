@@ -16,4 +16,4 @@ Students who have already practised with Deep ConvNets should work essentially o
 Instructions in [this pdf](https://github.com/telejesus2/tprl-lsml-2021/blob/main/tprl_lsml_2021.pdf).
 
 ## Day 4: Stochastic gradient descent
-TBA
+Work on notebook `4_stochastic_gradient_descent.ipynb`.
