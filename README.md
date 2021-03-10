@@ -12,8 +12,8 @@ Notebooks for the [2021 course on Large Scale Machine Learning at Mines ParisTec
 Beginners should work on TP1 (LeNet on MNIST), and then at least begin TP3 (Deep Generative Models)
 Students who have already practised with Deep ConvNets should work essentially on TP3. TP2 may be useful only for those who have never practised Transfer Learning.
 
-## Day 3: Deep reinforcement learing
-Instructions in [this pdf](https://github.com/telejesus2/tprl-lsml-2021/blob/main/tprl_lsml_2021.pdf).
+## Day 3: Deep reinforcement learning
+Instructions in [this pdf](https://github.com/telejesus2/tprl-lsml-2021/blob/main/tprl_lsml_2021.pdf) (download it to use the links inside). The notebook is [here](https://github.com/telejesus2/tprl-lsml-2021/blob/main/tprl_lsml_2021.ipynb). We strongly recommend using google colab (you might have to change a few cells and install a ton of dependencies if you run it locally).
 
 ## Day 4: Stochastic gradient descent
 Work on notebook `4_stochastic_gradient_descent.ipynb`.
